@@ -36,7 +36,7 @@ conda activate cv_env
 # macOS/Linux
 conda activate cv_env
 
-✅ Step 3: Install OpenCV and Supporting Libraries
+## ✅ Step 3: Install OpenCV and Supporting Libraries
 
 Install OpenCV via `conda` (from `conda-forge`) or `pip`:
 
@@ -63,7 +63,7 @@ conda install -c conda-forge pyqt
 
 * **Linux**: Make sure `libgtk2.0-dev` or `libgtk-3-dev` is installed via `apt`.
 
-✅ Step 4: Test Your Installation
+## ✅ Step 4: Test Your Installation
 
 Create a file named `test_cv.py`:
 
@@ -101,7 +101,7 @@ plt.axis('off')
 plt.show()
 ```
 
-✅ Install Jupyter Notebook
+## ✅ Install Jupyter Notebook
 
 ```bash
 conda install notebook
