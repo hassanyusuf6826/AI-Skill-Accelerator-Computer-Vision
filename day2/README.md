@@ -1,3 +1,7 @@
+# Day 2 
+Welcome to day 2! 
+Note : You can find the lecture notebook on colab: [https://colab.research.google.com/drive/1ob502OkH7Rbvy0hKWwQJ3HbXbzx6fqQp?usp=sharing](https://colab.research.google.com/drive/1ob502OkH7Rbvy0hKWwQJ3HbXbzx6fqQp?usp=sharing).
+
 # 🖼️ Image Processing Playground (Streamlit Mini-Project)
 
 This mini-project is designed to help you apply various image processing techniques interactively using a **Streamlit web app**. You'll build an app that lets users upload images, apply transformations, and view both the original and processed images side by side.
